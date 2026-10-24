@@ -32,7 +32,6 @@ Sou curioso por tecnologia e gosto de aprender na prática. Por aqui tem um pouc
 
 **Redes**
 
-TCP/IP · DNS · Roteamento · HTTP
 
 </div>
 
